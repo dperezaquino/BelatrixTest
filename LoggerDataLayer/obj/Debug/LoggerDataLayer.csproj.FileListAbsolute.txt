@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\bin\Debug\LoggerDataLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\bin\Debug\LoggerDataLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\obj\Debug\LoggerDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\obj\Debug\LoggerDataLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\obj\Debug\LoggerDataLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\bin\Debug\LoggerCommon.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerDataLayer\bin\Debug\LoggerCommon.pdb

@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerBusinessLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerBusinessLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerDataLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerDataLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\obj\Debug\LoggerBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\obj\Debug\LoggerBusinessLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\obj\Debug\LoggerBusinessLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerCommon.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerBusinessLayer\bin\Debug\LoggerCommon.pdb

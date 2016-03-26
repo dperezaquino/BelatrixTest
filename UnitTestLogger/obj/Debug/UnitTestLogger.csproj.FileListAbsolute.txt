@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\obj\Debug\UnitTestLogger.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\UnitTestLogger.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\UnitTestLogger.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\Logger.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerCommon.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerEntities.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerBusinessLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerDataLayer.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerCommon.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerEntities.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\Logger.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerBusinessLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\LoggerDataLayer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\obj\Debug\UnitTestLogger.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\obj\Debug\UnitTestLogger.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\UnitTestLogger\bin\Debug\UnitTestLogger.dll.config

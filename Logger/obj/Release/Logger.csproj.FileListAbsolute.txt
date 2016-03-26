@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\bin\Release\Logger.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\bin\Release\Logger.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\bin\Release\Logger.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\bin\Release\LoggerEntities.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\bin\Release\LoggerEntities.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\obj\Release\Logger.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\Logger\obj\Release\Logger.pdb

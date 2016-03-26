@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{8A827E5B-DE16-4052-B348-4E7D270F6B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerEntities", "LoggerEntities\LoggerEntities.csproj", "{7EB7092A-8492-4E8E-96FD-5C137CFDCA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerDataLayer", "LoggerDataLayer\LoggerDataLayer.csproj", "{C54EAF3C-9AB9-46B8-9013-19E4BAAE1349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerBusinessLayer", "LoggerBusinessLayer\LoggerBusinessLayer.csproj", "{E501FF5F-42AA-4DD7-9A8C-6540DC490835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerCommon", "LoggerCommon\LoggerCommon.csproj", "{0FA7E4DE-9CEF-4D30-8ADE-2778FF6EC74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLogger", "UnitTestLogger\UnitTestLogger.csproj", "{326FF03D-0865-42F1-9640-ED78C5EBBC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A827E5B-DE16-4052-B348-4E7D270F6B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A827E5B-DE16-4052-B348-4E7D270F6B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A827E5B-DE16-4052-B348-4E7D270F6B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A827E5B-DE16-4052-B348-4E7D270F6B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB7092A-8492-4E8E-96FD-5C137CFDCA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB7092A-8492-4E8E-96FD-5C137CFDCA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB7092A-8492-4E8E-96FD-5C137CFDCA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB7092A-8492-4E8E-96FD-5C137CFDCA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54EAF3C-9AB9-46B8-9013-19E4BAAE1349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54EAF3C-9AB9-46B8-9013-19E4BAAE1349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54EAF3C-9AB9-46B8-9013-19E4BAAE1349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54EAF3C-9AB9-46B8-9013-19E4BAAE1349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E501FF5F-42AA-4DD7-9A8C-6540DC490835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E501FF5F-42AA-4DD7-9A8C-6540DC490835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E501FF5F-42AA-4DD7-9A8C-6540DC490835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E501FF5F-42AA-4DD7-9A8C-6540DC490835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA7E4DE-9CEF-4D30-8ADE-2778FF6EC74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA7E4DE-9CEF-4D30-8ADE-2778FF6EC74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA7E4DE-9CEF-4D30-8ADE-2778FF6EC74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA7E4DE-9CEF-4D30-8ADE-2778FF6EC74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326FF03D-0865-42F1-9640-ED78C5EBBC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326FF03D-0865-42F1-9640-ED78C5EBBC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326FF03D-0865-42F1-9640-ED78C5EBBC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326FF03D-0865-42F1-9640-ED78C5EBBC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

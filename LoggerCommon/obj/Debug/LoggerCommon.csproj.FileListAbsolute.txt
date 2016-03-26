@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerCommon\bin\Debug\LoggerCommon.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerCommon\bin\Debug\LoggerCommon.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerCommon\obj\Debug\LoggerCommon.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Logger\LoggerCommon\obj\Debug\LoggerCommon.pdb
